@@ -2,10 +2,10 @@
 <widget id="com.phonegap.simba.halloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>0911</name>
     <description>
-        0911 is an interactive story about 09/11.
+        0911 is an interactive story about 0911.
     </description>
     <author email="salavat@asia.com" href="http://pcorp.org">
-        Salavat Ulaev & Co
+        Salavat Ulaev and Co
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
